@@ -54,7 +54,7 @@ section img{
   font-size: 11px;
 }
 
-@media screen and (max-width: 1024px) {
+@media (max-width: 1024px) {
   header p{
     width: 550px;
     font-size: 26px;
@@ -67,7 +67,7 @@ section img{
   }
 }
 
-@media screen and (max-width: 480px) {
+@media (max-width: 480px) {
   header p{
     width: 240px;
     font-size: 26px;
